@@ -1,0 +1,6 @@
+instalación
+librerias
+
+pip install chat
+pip install chatterbot
+pip install reflection
